@@ -26,15 +26,17 @@ To get started, follow these steps:
    cd wth-bootcamp
    ```
 
-3. **Make your changes** (e.g., add your name to a file or create a new one).
+3. **Branch out and make your changes** (e.g., add your name to a file or create a new one).
 
 4. **Stage, commit, and push** your changes:
 
    ```bash
    git add .
    git commit -m "Your message"
-   git push origin main
+   git push --set-upstream origin <branch-name>
    ```
+
+5. Create a PR to main.
 
 ## 🤝 Contribution Guidelines
 
