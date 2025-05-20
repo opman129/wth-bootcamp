@@ -19,7 +19,6 @@ To get started, follow these steps:
 1. **Clone the repo**:
    ```bash
    git clone https://github.com/<your-username>/wth-bootcamp.git
-````
 
 2. **Navigate to the project folder**:
 
