@@ -59,5 +59,6 @@ This project is open for contributions! You're encouraged to:
 This repo is maintained as part of a learning program or bootcamp. Feel free to use it for your personal Git practice.
 
 ---
-
+#### My name is Ukezi Ebenezer, I am a Technical writer and frontend developer. I am from Nigeria, I am a graduate of Computer Science from Federal University Wukari, Taraba State.
+### Thank you for your teaching at the bootcamp. Your session has been insightful.
 Happy learning and coding! 🚀
